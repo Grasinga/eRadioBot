@@ -1,3 +1,3 @@
 Manifest-Version: 1.0
-Main-Class: net.grasinga.discord.bots.eRadio
+Main-Class: eRadio
 
