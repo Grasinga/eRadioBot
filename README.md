@@ -1,3 +1,5 @@
+# Unsupported
+
 # eRadioBot
 Radio bot used on <a href="http://ethereal.network/discord">Ethereal Network's Discord.</a>
 
